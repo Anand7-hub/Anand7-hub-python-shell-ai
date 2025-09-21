@@ -1,5 +1,7 @@
 # AI-Powered Terminal Emulator
 
+Link to the website - https://ai-command-shell.lovable.app/
+
 A fully functional, AI-driven terminal emulator built with React, TypeScript, and advanced NLP capabilities. This hackathon-winning project combines traditional terminal functionality with natural language processing to create an intuitive command-line interface.
 
 ## 🚀 Features
